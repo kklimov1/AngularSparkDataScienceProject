@@ -1,0 +1,4 @@
+Age,Weight (kg),Height (m),Max_BPM,Avg_BPM,Resting_BPM,Session_Duration (hours),Calories_Burned,Fat_Percentage,Water_Intake (liters),Workout_Frequency (days/week),Experience_Level,BMI,Gender_Female,Strength_Workout,Cardio_Workout,Yoga_Workout,HIIT_Workout,batch
+52,63.1,1.54,185,165,67,1.36,1010.0,34.8,1.8,3,2,26.61,1.0,1,0,0,0,41
+52,85.6,1.74,182,145,56,1.84,1321.0,13.9,3.5,4,3,28.27,0.0,0,0,1,0,41
+52,104.8,1.99,187,130,67,0.93,598.0,24.0,2.0,2,1,26.46,0.0,0,1,0,0,41
